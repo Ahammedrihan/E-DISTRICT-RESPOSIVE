@@ -1,0 +1,52 @@
+
+.top-header{
+    
+background-color: #f1c222;
+width:100%;
+height:5px;}
+
+*{
+ 
+
+
+
+    margin: 0;
+
+}
+.navbar-toggle-icon {
+background:repeat center center;
+border-color: black;
+}
+.heading{
+    color: blue;
+    
+}
+button{
+    background-color: rgb(12, 53, 131);
+    border: none;
+    border-radius:1;
+    color: azure;
+    height: auto;
+    width:auto
+}
+
+.bs-img-1{
+border-radius: 9px;
+width: 50px;
+height: 50px;
+
+padding: 0 0 0 0;
+}
+
+.img1{
+    border-radius: 20px;
+}
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 0 10px 15px rgb(0 0 0/8%), 0 0 6px rgb(0 0 0/5%);
+}
+ul{
+list-style-type: none;
+
+
+}
